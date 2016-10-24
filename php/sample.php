@@ -5,3 +5,5 @@
  * Date: 10/19/2016
  * Time: 11:45 AM
  */
+
+phpinfo();
